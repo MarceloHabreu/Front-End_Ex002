@@ -1,0 +1,30 @@
+header{
+    background-color: rgb(196, 196, 196);
+    text-align: center;
+    font-size: 20pt;
+    padding: 7px;
+    border: solid 2px #000;
+    border-radius: 8px;
+    box-shadow: 5px 5px 10px #000;
+}
+
+body{
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 13pt;
+    background-color: rgb(210, 219, 77);
+    font-family: sans-serif;
+}
+div{
+    padding:20px;
+    display: flex;
+    justify-content: space-between ;
+    
+    
+}
+
+div img{
+    height: 160px;
+    width: 180px;
+    box-shadow: 5px 5px 10px #000;
+}
